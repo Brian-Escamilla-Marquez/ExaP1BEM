@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="lenguajes_android">
+        <item>Java</item>
+        <item>Kotlin</item>
+        <item>Python</item>
+        <item>C++</item>
+    </string-array>
+</resources>

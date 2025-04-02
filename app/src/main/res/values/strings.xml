@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">ExaP1BEM</string>
+
+
+
+
+        <string name="examen_title">EXAMEN P1</string>
+        <string name="tsdmh">TSDMH</string>
+        <string name="codigo">7S11</string>
+
+        <!-- Strings para MainActivity2 -->
+        <string name="acceso">Acceso</string>
+        <string name="usuario">Usuario</string>
+        <string name="contrasena">Contraseña</string>
+        <string name="captcha_question">Resuelve: %1$d + %2$d = ?</string>
+        <string name="ingresar">Ingresar</string>
+        <string name="error_captcha">Respuesta incorrecta. Intenta nuevamente.</string>
+
+        <!-- Strings para MainActivity3 -->
+        <string name="examen">Examen</string>
+        <string name="pregunta1">1. ¿Qué patrón se recomienda para separar la lógica de presentación en Android?</string>
+        <string name="opcion1a">a) MVP</string>
+        <string name="opcion1b">b) Singleton</string>
+        <string name="opcion1c">c) Factory</string>
+        <string name="opcion1d">d) Observer</string>
+        <string name="pregunta2">2. ¿Cuál de estos NO es un componente fundamental de Android?</string>
+        <string name="opcion2a">Activities</string>
+        <string name="opcion2b">Fragments</string>
+        <string name="opcion2c">Intents</string>
+        <string name="opcion2d">JSP</string>
+        <string name="pregunta3">3. Selecciona el lenguaje oficial para desarrollo Android:</string>
+        <string name="pregunta4">4. Explica brevemente qué es un Intent en Android:</string>
+        <string name="calificar">Calificar</string>
+
+        <!-- Strings para MainActivity4 -->
+        <string name="tu_calificacion">Tu calificación</string>
+        <string name="felicidades">¡Felicidades!</string>
+        <string name="reprobado">Necesitas estudiar más</string>
+    </resources>
